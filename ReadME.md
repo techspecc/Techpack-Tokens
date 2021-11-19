@@ -22,4 +22,4 @@ I dunno, might be overthinking it
 Although we love on chain-ness figured it's easier and lighter to use PNGs for most artworks. Might keep the simpler logos as SVGs ideally since you can call the SVG string which strenghtens the idea of collective creation.
 
 ## IDEA
-![alt text](https://github.com/techspec/demos/FWB-SEASON-4/Visuals/SPLIT_CONTRACT_VISUALS.png?raw=true)
+![alt text](https://github.com/techspec/FWB-SEASON-4/Visuals/SPLIT_CONTRACT_VISUALS.png?raw=true)
